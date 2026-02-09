@@ -200,11 +200,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### Made with ❤️ by the 𝗕𝗼𝘁𝗶𝗳𝘆𝗫_𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹 Team
 
-**© 2024 Telegram File Sequence Bot. All Rights Reserved.**
+**© 2026 Telegram File Sequence Bot. All Rights Reserved.**
 
 [⬆ Back to Top](#-telegram-file-sequence-bot)
 
 
 </div>
+
 
 
