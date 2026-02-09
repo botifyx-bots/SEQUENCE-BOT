@@ -103,7 +103,7 @@ OWNER_ID=your_telegram_user_id
 
 # Database Configuration
 DB_URI=mongodb://your_mongodb_uri
-DB_NAME=Botifyx_sequencebott
+DB_NAME=Botifyx_sequencebot
 DATABASE_CHANNEL=your_channel_id
 
 # Customization
@@ -206,4 +206,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 
 </div>
+
 
