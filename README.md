@@ -1,5 +1,5 @@
 <div align="center">
-  # 🤖 Telegram File Sequence Bot
+  <h1>🤖 Telegram File Sequence Bot</h1> 
 <p align="center">
   <img src="https://prod.assets.earlygamecdn.com/images/Chisa.jpg?transform=Banner+Webp" alt="Bot Banner" width="1920"/p>
 
@@ -206,3 +206,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 
 </div>
+
