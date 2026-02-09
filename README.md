@@ -1,7 +1,8 @@
 <div align="center">
+  # 🤖 Telegram File Sequence Bot
 <p align="center">
   <img src="https://prod.assets.earlygamecdn.com/images/Chisa.jpg?transform=Banner+Webp" alt="Bot Banner" width="1920"/p>
-# 🤖 Telegram File Sequence Bot
+
 
 <img src="https://img.shields.io/badge/Telegram-Bot-blue?style=for-the-badge&logo=telegram" alt="Telegram Bot">
 <img src="https://img.shields.io/badge/Python-3.9+-yellow?style=for-the-badge&logo=python" alt="Python">
@@ -202,5 +203,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **© 2024 Telegram File Sequence Bot. All Rights Reserved.**
 
 [⬆ Back to Top](#-telegram-file-sequence-bot)
+
 
 </div>
